@@ -35,7 +35,7 @@ end
 def using_uniq(array)
 
 end
-def using_concat(array)
+def using_flatten(array)
 
 end
 def using_concat(array)
