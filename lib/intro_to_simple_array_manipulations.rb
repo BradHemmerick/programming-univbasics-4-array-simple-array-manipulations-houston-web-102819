@@ -41,6 +41,6 @@ end
 def using_delete(array)
 
 end
-def using_concat(array)
+def using_delete_at(array)
 
 end
