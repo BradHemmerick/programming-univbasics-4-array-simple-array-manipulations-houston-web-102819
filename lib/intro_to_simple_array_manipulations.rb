@@ -26,6 +26,21 @@ end
 def shift_with_args(array)
 
 end
-def shift_with_args(array)
+def using_concat(array)
+
+end
+def using_concat(array)
+
+end
+def using_concat(array)
+
+end
+def using_concat(array)
+
+end
+def using_concat(array)
+
+end
+def using_concat(array)
 
 end
