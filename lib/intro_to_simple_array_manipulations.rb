@@ -29,7 +29,7 @@ end
 def using_concat(array)
 
 end
-def using_concat(array)
+def using_insert(array)
 
 end
 def using_concat(array)
